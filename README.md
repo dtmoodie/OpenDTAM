@@ -1,3 +1,5 @@
+This is a fork from anuranbaka/OpenDTAM with test data removed to keep the repository small.
+
 OpenDTAM
 ========
 
